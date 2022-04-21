@@ -1,16 +1,8 @@
 
 #include <iostream>
 #include "header.hpp"
-int main()
-{
-    Person* person = new Person;
-    person->greet();
-    person->setFirstName("czlowiek");
-    person->greet();
-    person->setFirstName("");
-    person->greet();
+int main() {
 
-    std::vector<Person*> persons;
-    persons.emplace_back(person);
-
+    Person p;
+    p.greet();
 }

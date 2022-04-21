@@ -1,3 +1,0 @@
-/home/rafal/Desktop/recruit task/build/CMakeFiles/rebuild_cache.dir
-/home/rafal/Desktop/recruit task/build/CMakeFiles/edit_cache.dir
-/home/rafal/Desktop/recruit task/build/CMakeFiles/execName.dir
